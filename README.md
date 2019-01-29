@@ -172,7 +172,7 @@ task clean(type: Delete) {
 ```
 
 androidstudio 采用的是gradle的构建方式，gradle是基于 ant 和maven的理念在构建，所以在他的build.gradle中会引入一些第三方的库。
-比如 jencter(); 或者是mavenCentral(); 但是这两个库维护在不同的服务器上，所以两个基本上没有太大的关联，我们知道jencter()是全世界最大的java仓库，所以mavenCentral()有的 jencter()一定有，但是像我们之前采用的androidstudio的版本默认是用的mavenCentral()的库，但是更新以后发现google 将jencter()设为了默认库，所以有时候我们会出现读取超时的情况，所以为了解决这类问题的话可以将之前的库也放进去，并且放在jencter()之前加载，这样就可以避免一个库读取超时
+比如 jcenter(); 或者是mavenCentral(); 但是这两个库维护在不同的服务器上，所以两个基本上没有太大的关联，我们知道jcenter()是全世界最大的java仓库，所以mavenCentral()有的 jcenter()一定有，但是像我们之前采用的androidstudio的版本默认是用的mavenCentral()的库，但是更新以后发现google 将jcenter()设为了默认库，所以有时候我们会出现读取超时的情况，所以为了解决这类问题的话可以将之前的库也放进去，并且放在jcenter()之前加载，这样就可以避免一个库读取超时
 
 2. app目录build.gradle如下
 
