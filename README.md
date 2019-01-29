@@ -108,7 +108,7 @@ apply plugin: 'replugin-plugin-gradle'
 
 implementation 'com.qihoo360.replugin:replugin-plugin-lib:2.2.4'
 ```
-==fastAPP的其他注意事项==  [参见这里](https://github.com/Qihoo360/RePlugin/wiki/%E6%8F%92%E4%BB%B6%E7%9A%84%E7%BB%84%E4%BB%B6)
+fastAPP的其他注意事项  [参见这里](https://github.com/Qihoo360/RePlugin/wiki/%E6%8F%92%E4%BB%B6%E7%9A%84%E7%BB%84%E4%BB%B6)
 
 好了，fastAPP部分的配置完成了。
 
