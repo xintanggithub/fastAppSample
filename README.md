@@ -6,9 +6,8 @@
 - sample、sample2: fastAPP
 - test.keystore：sample、sample2的签名文件
 
-alias: a    
-
-password：123456
+    alias: a    
+    password：123456
 
 ## 简介
 
