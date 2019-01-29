@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/tangxin/Downloads/fast/fastapp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/tangxin/Downloads/fast/fastapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

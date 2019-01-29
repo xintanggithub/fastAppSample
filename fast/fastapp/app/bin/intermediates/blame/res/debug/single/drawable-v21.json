@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/tangxin/.android/build-cache/0a9334eab0a6642953fe36b42bf27ed3d6f81a40/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

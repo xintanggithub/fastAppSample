@@ -1,0 +1,2 @@
+include ':Libraries:DroidPlugin', ':app'
+rootProject.name = 'fastapp'

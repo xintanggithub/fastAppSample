@@ -1,0 +1,4 @@
+#Mon Jan 28 16:29:25 CST 2019
+base.0=/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/tangxin/Downloads/fast/fastapp/app/bin/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
